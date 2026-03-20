@@ -7,8 +7,8 @@ I love building products that are useful to at least one person (including mysel
 ---
 
 #### 👨‍💻 What I'm up to
-- 🔭 Working on: **[BananaHOST](https://github.com/PNTRR4464/)** — a game server hosting service (HTTP, SQL, and infrastructure).
-- 🌱 Building: **[TEMPL](https://github.com/PNTRR4464/)** — a platform to help local teams find each other for joint startups.
+- 🔭 Working on: **[BananaHOST](https://github.com/PNTRR)** — a game server hosting service (HTTP, SQL, and infrastructure).
+- 🌱 Building: **[TIMPL](https://github.com/PNTRR)** — a platform to help local teams find each other for joint startups.
 - 📚 Learning: Deep diving into **C++/C** and polishing my **C#** skills.
 
 #### 🛠️ Tech Stack
