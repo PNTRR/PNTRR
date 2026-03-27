@@ -1,6 +1,6 @@
 ### Hi there, I'm Michael 👋
 
-🚀 **Physician by degree, Game Designer & Full-stack Developer by heart.**
+🚀 **Physician by male nurse, Game Designer & Full-stack Developer by heart.**
 
 I love building products that are useful to at least one person (including myself). Whether it's code, a soldering iron, or a sewing machine — if it helps create something new, I'm in.
 
